@@ -1,0 +1,6 @@
+{
+  "name": "1000 English Grammar Rules Quiz & Audio",
+  "description": "اختبار وتدريب تفاعلي لقواعد اللغة الإنجليزية (1000+ قاعدة) مع الترجمة العربية والنطق الصوتي لكل سؤال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
