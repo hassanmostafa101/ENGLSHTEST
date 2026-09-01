@@ -1,6 +1,8 @@
 {
-  "name": "1000 English Grammar Rules Quiz & Audio",
-  "description": "اختبار وتدريب تفاعلي لقواعد اللغة الإنجليزية (1000+ قاعدة) مع الترجمة العربية والنطق الصوتي لكل سؤال.",
+  "name": "بنك الاختبارات الشامل للغة الإنجليزية (2000 سؤال)",
+  "description": "منصة اختبارات تفاعلية شاملة تضم بنك 2000 سؤال مع شروحات القواعد باللغة العربية ونماذج امتحانات تفاعلية وصفحة HTML مستقلة.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
